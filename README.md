@@ -4,4 +4,3 @@ Hi
 - I’m currently learning C, riscv/arm64 assembly and making drivers
 - How to reach me: my tiktok or ryomeow.66 in signal
 - Pronouns: she/hers/her/they
-- 
